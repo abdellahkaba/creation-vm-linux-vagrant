@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/tomcat/webapps":{"guestpath":"/opt/tomcat/webapps","hostpath":"C:/Users/Kaba/Documents/Java EE/TD/tomcate/tomcatwebapps","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Kaba/Documents/Java EE/TD/tomcate","disabled":false,"__vagrantfile":true}}}
